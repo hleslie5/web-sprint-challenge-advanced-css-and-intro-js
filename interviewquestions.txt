@@ -1,0 +1,15 @@
+Interview Questions
+
+
+1. How would you describe acessibility on the web to someone new to programming?
+Accessibility is a broad term affecting website design which is an umbrella of sorts under which multiple aspects of web design are matched and implemented in web design to accmmodate users from all ability levels to include physical health impairments such as color blindness, equipment adaptations including screen readers, and perhaps the ability to enable closed captioning, to mention a few in the design itself and HTML code and CSS styling so that all groups can be included in accessing the web page and seeing and using the information presented.  Accessibility of web sites to multiple groups, such as the deaf and blind population, is also a legal requirement of the technological sector of society such as video communications in several cases, such as by federal agencies.
+
+2. Talk about 3 different things you can do to ensure your website is accessible. 
+Responsive units make a web page scalable and this is ideal when it comes to font sizes.  The web page can be worked with in terms of size and readability will be maintained.  Using semantic tags is another example of a way to incorporate accessibility such that the tags will equal English words and not just particles without meaning.  Another idea is to use clear class and id names and when using the image reference use the alt tag, according to the Canvas class website.
+
+3. How would you explain the concept of a variable to someone new to programming?
+
+
+4. What is the purpose of using functions in code?
+
+
