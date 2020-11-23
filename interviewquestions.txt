@@ -8,8 +8,8 @@ Accessibility is a broad term affecting website design which is an umbrella of s
 Responsive units make a web page scalable and this is ideal when it comes to font sizes.  The web page can be worked with in terms of size and readability will be maintained.  Using semantic tags is another example of a way to incorporate accessibility such that the tags will equal English words and not just particles without meaning.  Another idea is to use clear class and id names and when using the image reference use the alt tag, according to the Canvas class website.
 
 3. How would you explain the concept of a variable to someone new to programming?
-
+A variable is a JavaScript is a group of syntax pieces in which a piece of data is recorded and then can be modified and then applied in computer programming code.  Three words are used to indicate the variable status in JavaScript:  var, let, and const.
 
 4. What is the purpose of using functions in code?
-
+Functions stop the deveoper from repeating code.  The function is a code piece that allows a piece of code, or seceral single pieces put together, to run autonomously and not need to run singly each time.  They are tiny computer programs inside the coding of programs or applications or web pages that are designed to deploy independently.
 
