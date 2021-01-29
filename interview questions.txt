@@ -1,9 +1,11 @@
 1. How would you describe acessibility on the web to someone new to programming?
+
 Accessibility is a broad and general term that basically states that web pages are produced and available to as wide an audience as possible.
 
 More specifically, accessibility can be summarized as a concept related to web development in which web pages are concisely designed and deployed to the web with multiple groups of people in mind such that multiple disability access technologies available to support and accommodate different groups of disability and medical needs groups are made to be cohesive to the design of the web pages; color blind persons are considered in web site design so adjustments are made in font colors so their eyesight needs are accommodated and they can then experience, enjoy, assess, evaluate, and/or use information available on a representative web page; and, laptop versus desktop versus mobile access design is in the project mindset and this being said the design consideration would be the screen size is adjustable and scalable so that the web page is relatable to the screen size in question--responsive design; slower internet speeds are still a part of the population and so the design should incorporate lagging web page speed and so varying load speeds should be remembered during web page development.
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
 Website design can be broken down and made more accessible with three measures such as the following:
 One - Using responsive design and not fixed pixel sizes for box sizing will help the sizing of borders become scalable and "responsive" when the web page is re-sized on a screen; for example, a web site is re-sized for a mobile screen, and the web site is changed to fit the mobile screen with the web page displaying as appropriately as it did on the desktop PC screen with the same information viewed and available with links as the desktop PC screen.
 Two - Finding more information on color blindness and which fonts are accessible and viewable to all persons with color blindness as a whole will produce a website that does not exclude any specific color blind group is ideal.
@@ -11,7 +13,9 @@ Here is some more information available on the topic of making all website infor
 Three - Make sure there are not too many images so that the web page is too large and the web page would need excessive time then for a slower internet connection to load the page.  This might preclude the web page from loading in the internet browser.
 
 3. How would you explain the concept of a variable to someone new to programming?
+
 A variable is a command in JavaScript that is a central concept of JavaScript.
 
 4. What is the purpose of using functions in code?
+
 Functions are a tiny program within a program and function within themselves to repeat a piece of information and store the information and change it or the value of the information if necessary.
