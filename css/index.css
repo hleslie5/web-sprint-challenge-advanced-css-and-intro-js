@@ -121,8 +121,10 @@ button:hover{
 }
 /*Artists Section Styles */
 .artists-container{
-
-
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto;
 }
 
 .artist{
@@ -133,6 +135,14 @@ button:hover{
     max-width:100%;
     display:block;
 }
-.artists-container .artist .bio {
-        text-align:center;
+
+@media (max-width: 500px) { .artists-container {
+
+}
+
+@media (min-width: 501px) { .artists-container {
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto; 
 }
