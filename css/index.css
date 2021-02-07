@@ -142,7 +142,6 @@ button:hover{
     align-items: center;
 }
 
-
 @media (min-width: 501px) { .artists-container {
     display:flex;
     justify-content: space-around;
