@@ -225,7 +225,7 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
  1. Receive an array
  2. Receive a number, which is the desired index in the array.
  3. Return a string in the format `the artist at index {id} is {name}`
- 
+
  
  Example, if getArtistByIndex is invoked with the artists array and the number 0, it will return `the artist at index 0 is Amedeo Modigliani` */
 
