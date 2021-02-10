@@ -77,9 +77,11 @@ nav{
 nav a{
     color:#626262;
 }
+
 nav span{
     border-left:3px solid #626262;
-    padding-inline: 2.5px;
+    padding:3px;
+    
 }
 /*Title Section Styles*/
 .title-container{
@@ -89,7 +91,7 @@ nav span{
 }
 .title-container div {	
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg/1920px-John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg');		
-    background-position: center;	
+    background-position: center;
     color: white;	
     width:80%;
     display:flex;
@@ -130,6 +132,7 @@ button:hover{
 .artist{
     width:40%;
     text-align:center;
+
 }
 .artist img{
     max-width:100%;
