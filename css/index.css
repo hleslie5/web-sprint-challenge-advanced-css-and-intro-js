@@ -69,17 +69,17 @@ header{
     justify-content: center;
 }
 nav{
-    width:30%;
     display:flex;
-    justify-content:space-evenly;
     margin-top:5%;
+    justify-content: space-evenly;
+
 }
 nav a{
     color:#626262;
 }
 nav span{
     border-left:3px solid #626262;
-
+    padding-inline: 2.5px;
 }
 /*Title Section Styles*/
 .title-container{
